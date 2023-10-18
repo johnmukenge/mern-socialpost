@@ -1,2 +1,2 @@
 # mern-socialpost
-social media built using mongo db exprex react and node js
+social media built using mongo db express react and node js
